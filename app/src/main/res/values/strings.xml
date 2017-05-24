@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">考勤助手</string>
+    <string name="accessibility_description">打开通知栏显示功能，本功能才能正常使用。</string>
+</resources>
